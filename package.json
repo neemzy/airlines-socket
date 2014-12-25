@@ -1,0 +1,14 @@
+{
+  "name": "airlines-socket",
+  "version": "0.0.1",
+  "description": "Companion app to Airlines handling realtime UI updates",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/neemzy/airlines-socket.git"
+  },
+  "author": "neemzy",
+  "homepage": "https://github.com/neemzy/airlines-socket",
+  "dependencies": {
+    "socket.io": "~1.2.1"
+  }
+}
